@@ -9,3 +9,4 @@ Este proyecto es una página web que ofrece una variedad de funcionalidades para
 ## Cómo usar
 Para utilizar la página web, simplemente navega a la URL y explora las diferentes secciones.
 
+# Sitio en construcción
